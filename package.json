@@ -1,0 +1,24 @@
+{
+  "name": "results-summary-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "prettier-write": "prettier . --write",
+    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "Nur Muhammad Arief Kurniawan <ariefmuhammad897@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@nurmarief/eslint-config": "^1.0.0",
+    "@nurmarief/prettier-config": "^1.0.0",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "onchange": "7.1.0",
+    "prettier": "3.0.3"
+  }
+}
