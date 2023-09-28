@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - [Github repo](https://github.com/nurmarief/fementor_results-summary-component)
-- [Live site](https://nur-m-arief-k.github.io/fementor_results-summary-component/)
+- [Live site](https://nurmarief.github.io/fementor_results-summary-component/)
 
 ## My process
 
