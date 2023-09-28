@@ -1,0 +1,4 @@
+.list-group__list-item_kind_memory {
+  background-color: hsla(var(--orangey-yellow), 10%);
+  color: hsl(var(--orangey-yellow));
+}

@@ -1,0 +1,12 @@
+.button_kind_summary-card-continue-button {
+  display: block;
+  border-radius: 2em;
+  padding-block: 1.25em;
+  width: 100%;
+  background-color: hsl(var(--dark-gray-blue));
+  color: hsl(var(--light-lavender));
+}
+
+.button_kind_summary-card-continue-button:hover {
+  background-color: hsl(var(--light-royal-blue));
+}

@@ -1,0 +1,9 @@
+.button {
+  display: inline-block;
+  font-size: 1em;
+  border: none;
+}
+
+.button:hover {
+  cursor: pointer;
+}
