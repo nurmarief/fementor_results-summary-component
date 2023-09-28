@@ -1,0 +1,14 @@
+.card {
+  font-size: 1.125em;
+  display: block;
+  padding-inline: 1em;
+  padding-block: 2em;
+  border-radius: 1em;
+}
+
+/* > 375px */
+@media screen and (min-width: 23.4375em) {
+  .card {
+    padding-inline: 1.875em; /* 30px */
+  }
+}

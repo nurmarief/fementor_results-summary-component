@@ -1,0 +1,28 @@
+:root {
+  --light-red: 0, 100%, 67%;
+  --orangey-yellow: 39, 100%, 56%;
+  --green-teal: 166, 100%, 37%;
+  --cobalt-blue: 234, 85%, 45%;
+  --light-slate-blue: 252, 100%, 67%;
+  --light-royal-blue: 241, 81%, 54%;
+  --persian-blue: 241, 72%, 46%, 0;
+  --violet-blue: 256, 72%, 46%, 1;
+  --white: 0, 0%, 100%;
+  --pale-blue: 221, 100%, 96%;
+  --light-lavender: 241, 100%, 89%;
+  --dark-gray-blue: 224, 30%, 27%;
+
+  /* sample colors */
+  --light-red-sample: hsl(0, 100%, 67%);
+  --orangey-yellow-sample: hsl(39, 100%, 56%);
+  --green-teal-sample: hsl(166, 100%, 37%);
+  --cobalt-blue-sample: hsl(234, 85%, 45%);
+  --light-slate-blue-sample: hsl(252, 100%, 67%);
+  --light-royal-blue-sample: hsl(241, 81%, 54%);
+  --violet-blue-sample: hsl(256, 72%, 46%, 1);
+  --persian-blue-sample: hsla(241, 72%, 46%, 0);
+  --white-sample: hsl(0, 0%, 100%);
+  --pale-blue-sample: hsl(221, 100%, 96%);
+  --light-lavender-sample: hsl(241, 100%, 89%);
+  --dark-gray-blue-sample: hsl(224, 30%, 27%);
+}

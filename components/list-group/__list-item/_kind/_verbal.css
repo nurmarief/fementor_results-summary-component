@@ -1,0 +1,4 @@
+.list-group__list-item_kind_verbal {
+  background-color: hsla(var(--green-teal), 10%);
+  color: hsl(var(--green-teal));
+}

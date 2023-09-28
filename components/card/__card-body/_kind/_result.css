@@ -1,0 +1,22 @@
+.card__card-body__kind_result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-inline: auto;
+  width: 7.8125em;
+  height: 7.8125em;
+  text-align: center;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    hsla(var(--violet-blue)),
+    hsl(var(--light-slate-blue))
+  );
+}
+
+/* for screen <= 375px */
+@media screen and (min-width: 23.4375em) {
+  .card__card-body__kind_result {
+    width: 12.5em;
+    height: 12.5em;
+  }
+}

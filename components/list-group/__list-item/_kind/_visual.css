@@ -1,0 +1,4 @@
+.list-group__list-item_kind_visual {
+  background-color: hsla(var(--cobalt-blue), 10%);
+  color: hsl(var(--cobalt-blue));
+}

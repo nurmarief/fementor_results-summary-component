@@ -1,0 +1,4 @@
+.list-group__list-item_kind_reaction {
+  background-color: hsla(var(--light-red), 10%);
+  color: hsl(var(--light-red));
+}

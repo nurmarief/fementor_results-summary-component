@@ -1,0 +1,7 @@
+.card_kind_result {
+  color: hsl(var(--white));
+  background-image: linear-gradient(
+    hsl(var(--light-slate-blue)),
+    hsl(var(--light-royal-blue))
+  );
+}
